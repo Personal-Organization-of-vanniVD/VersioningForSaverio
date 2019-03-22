@@ -19,6 +19,9 @@ public class Prova1 {
 		this.tof = tof;
 	}
 
+	// Commento di prova
+	// 1,2,3
+	
 	public Prova1(int x, int y, String s, boolean tof) {
 		super();
 		this.x = x;

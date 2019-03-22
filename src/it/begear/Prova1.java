@@ -39,6 +39,12 @@ public class Prova1 {
 		this.tof = tof;
 	}
 
-	
-	
+	public Prova1(int x, int y, String s, boolean tof) {
+		super();
+		this.x = x;
+		this.y = y;
+		this.s = s;
+		this.tof = tof;
+	}
+
 }

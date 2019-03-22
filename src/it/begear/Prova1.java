@@ -15,26 +15,6 @@ public class Prova1 {
 		this.x = x;
 	}
 	
-	public int getY() {
-		return y;
-	}
-	
-	public void setY(int y) {
-		this.y = y;
-	}
-	
-	public String getS() {
-		return s;
-	}
-	
-	public void setS(String s) {
-		this.s = s;
-	}
-	
-	public boolean isTof() {
-		return tof;
-	}
-	
 	public void setTof(boolean tof) {
 		this.tof = tof;
 	}

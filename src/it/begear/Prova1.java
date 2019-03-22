@@ -7,18 +7,6 @@ public class Prova1 {
 	private String s;
 	private boolean tof;
 	
-	public int getX() {
-		return x;
-	}
-	
-	public void setX(int x) {
-		this.x = x;
-	}
-	
-	public void setTof(boolean tof) {
-		this.tof = tof;
-	}
-	
 	public Prova1(int x, int y, String s, boolean tof) {
 		super();
 		this.x = x;
